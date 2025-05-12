@@ -1,2 +1,2 @@
-# sql_training
-Relational Database Personal Training
+# Relational Database Personal Training
+
